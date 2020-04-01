@@ -1,0 +1,86 @@
+/* Audi R8 = IMAGE AND TEXT*/
+
+.imgHold {
+	margin: 50px 50px 50px 350px;
+}
+.model-name {
+	color: #161715;
+	font-size: 24px;
+	font-family: sans-serif;
+}
+.model-summary {
+	background-color: rgba(204,204,204,0.2);
+	width: 350px;
+	height: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin:10px;
+}
+.model-price {
+	color: #539c38;
+	font-size: 24px;
+}
+.button {
+	margin: 0 auto;
+	padding: 15px;
+	background-color: #262621;
+	width:100px;
+	height:20px;
+	border-radius:50px;
+	text-align: center;
+	color: #fff;
+}
+/* FORM */
+h2 {
+	padding: 10px;
+}
+#autoForm {
+	margin-top: 0;
+	border:4px solid rgba(204,204,204,0.2);
+	padding: 10px;
+}
+/* 1 row */
+
+.col-1-of-3 {
+	display: inline-block;
+	margin: 15px;
+	margin-top: 0;
+}
+#transmissionHead{
+	margin-top: 0;
+}
+/* choice a color = SELECTORS */
+
+.colorSelector{
+	margin-top: 0;
+}
+.colorItem {
+	border-radius: 50px;
+	border: 2px solid #595959;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+.colorBlue {
+	background-color: blue;
+}
+.colorWhite {
+	background-color: white;
+}
+.colorBlack {
+	background-color: black;
+}
+.colorYellow {
+	background-color: yellow;
+}
+.colorRed {
+	background-color: red;
+}
+#example {
+	background-color: blue;
+	width:500px ;
+	height:500px ;
+	color: red;
+}
