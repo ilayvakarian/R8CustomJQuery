@@ -11,15 +11,15 @@ body{
 	font-family: sans-serif;
 }
 #firstSlide{
-	background-image:url(head1.jpg);
+	background-image:url(img/head1.jpg);
 	font-size: 30px;
 }
 #secondSlide{
-	background-image:url(head2.jpg);
+	background-image:url(img/head2.jpg);
 	font-size: 30px;
 }
 #thirdSlide{
-	background-image:url(head3.jpg);
+	background-image:url(img/head3.jpg);
 	font-size: 30px;
 }
 .slider {
