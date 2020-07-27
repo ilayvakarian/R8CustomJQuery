@@ -1,9 +1,9 @@
 body{
 	line-height: 1.5;
-        min-width: 1170px;
+       
 }
 .container {
-        width:1170px;
+        max-width:1170px;
         margin:0px auto;
 }
 .slider__item{
@@ -95,7 +95,7 @@ body{
 }
 .main{
 	display: flex;
-	max-width: 1200px;
+	max-width: 100%;
 	margin: 0px auto;
 	padding: 120px;
 }
@@ -145,7 +145,7 @@ body{
 }
 .answer{
 	margin: 20px auto;
-	max-width: 800px;
+	max-width: 40%;
 
 }
 .answer h3 {
