@@ -1,11 +1,32 @@
 body{
 	line-height: 1.5;
-        Min-width: 1170px;
+        
 }
 .container {
-        width:1170px;
+        Max-width:1170px;
         margin:0px auto;
 }
+
+@media (max-width:1200px){
+ . container {
+ max-width:970px;
+}
+}
+
+
+@media (max-width:992px){
+ . container {
+ max-width:750px;
+}
+}
+
+
+@media (max-width:767px){
+ . container {
+ max-width:none;
+}
+}
+
 .slider__item{
 	text-align: center;
 	background-repeat: no-repeat;
