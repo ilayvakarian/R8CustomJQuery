@@ -170,17 +170,17 @@ body{
 
 }
 .answer h3 {
-	font-size: 30px;
+	font-size: 20px;
 	padding: 3px;
 }
 .answer p span{
 	font-style: italic;
-	font-size: 24px;
+	font-size: 18px;
 	color:rgba(36,36,36,0.8);
 	padding: 3px;
 }
 .answer .text{
-	font-size: 20px;
+	font-size: 15px;
 	color:#969a9c;
 	padding-top: 10px;
 }
