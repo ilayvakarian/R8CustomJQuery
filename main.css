@@ -137,15 +137,15 @@ body{
 	flex:3;
 }
 .question{
-	border-bottom: 2% solid #238eb8;
+	border-bottom: 4% solid #238eb8;
 	margin: 20px auto;
 	max-width: 30%;
 	font-size: 30px;
 	letter-spacing:2px;
 }
 .answer{
-	margin: 20px auto;
-	max-width: 60%;
+	margin: 10px auto;
+	max-width: 70%;
 
 }
 .answer h3 {
