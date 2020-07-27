@@ -118,7 +118,7 @@ body{
 	display: flex;
 	max-width: 100%;
 	margin: 0px auto;
-	padding: 120px;
+	padding: 60px;
 }
 .box-1{
 	flex:1;
