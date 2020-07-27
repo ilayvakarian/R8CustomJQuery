@@ -1,9 +1,9 @@
 body{
 	line-height: 1.5;
-       
+        Min-width: 1170px;
 }
 .container {
-        max-width:1170px;
+        width:1170px;
         margin:0px auto;
 }
 .slider__item{
@@ -12,7 +12,7 @@ body{
 	background-size: 100%;
 	color:#fff;
 	background-position: center center;
-	line-height: 30%;
+	line-height: 500px;
 	font-family: sans-serif;
 }
 #firstSlide{
@@ -107,8 +107,8 @@ body{
 }
 #profile {
 	border-radius: 100%;
-	width:3%;
-	height:3%;
+	width:120px;
+	height:130px;
 	position: relative;
 }
 #about{
