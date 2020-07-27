@@ -1,5 +1,10 @@
 body{
 	line-height: 1.5;
+        min-width: 1170px;
+}
+.container {
+        width:1170px;
+        margin:0px auto;
 }
 .slider__item{
 	text-align: center;
