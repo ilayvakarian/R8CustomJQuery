@@ -59,7 +59,7 @@ body{
 }
 
 .slider__item {
-  flex: 0 0 100%;
+  flex: 2 1 100%;
   max-width: 100%;
 }
 
