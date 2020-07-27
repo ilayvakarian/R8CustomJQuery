@@ -131,10 +131,10 @@ body{
 	border-bottom: 1px solid rgba(36,36,36,0.1);
 }
 .box-3{
-	flex:1;
+	flex:1 0.5 20%;
 }
 .box-4{
-	flex:4;
+	flex:4 2 80%;
 }
 .question{
 	/* border-bottom: 2px solid #238eb8; */
