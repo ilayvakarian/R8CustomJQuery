@@ -25,10 +25,6 @@ body{
  . container {
  max-width:none;
 }
-.question {
- font-size:20px;
- Margin:0px auto;
-}
 }
 
 .slider__item{
@@ -154,8 +150,6 @@ body{
 .main-2{
 	display: flex;
 	border-bottom: 1px solid rgba(36,36,36,0.1);
-Margin:0px auto;
-Padding:0px;
 }
 .box-3{
 	flex:1 0.5 20%;
@@ -167,7 +161,7 @@ Padding:0px;
 	/* border-bottom: 2px solid #238eb8; */
 	margin: 20px auto;
 	max-width: 30%;
-	font-size: 30px;
+	font-size: 20px;
 	letter-spacing:2px;
 }
 .answer{
