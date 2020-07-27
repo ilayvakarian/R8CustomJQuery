@@ -3,7 +3,7 @@ body{
         
 }
 .container {
-        Max-width:1170px;
+        Max-width:1200px;
         margin:0px auto;
 }
 
@@ -24,6 +24,9 @@ body{
 @media (max-width:767px){
  . container {
  max-width:none;
+}
+.question {
+ font-size:20px;
 }
 }
 
